@@ -15,7 +15,7 @@
             Console.WriteLine($"Press 1 to start fight");
             if(Console.ReadKey().Key == ConsoleKey.D1)
             {
-            //    ppo.StartFight();
+                ppo.StartFight();
             }
             #endregion
             //ENDPPO
